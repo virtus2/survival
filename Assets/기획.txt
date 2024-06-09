@@ -1,0 +1,20 @@
+
+기획
+디아블로처럼 캐릭터 여러개, 대균열 컨셉 파밍 게임
+궁수의 전설처럼 장비끼고 시작할수 있도록
+죽지않고 최대한 많은 적을 잡는게 목표
+https://gall.dcinside.com/mgallery/board/view/?id=game_dev&no=14605&_rk=tDL&search_pos=-17554&s_type=search_all&s_keyword=%EA%B0%80%EB%A1%9C%EB%AA%A8%EB%93%9C&page=1
+스마트폰 게임해상도관련글
+
+http://www.devkorea.co.kr/bbs/board.php?bo_table=m03_qna&wr_id=92824
+애셋번들
+
+조작은 
+마이티 퀘스트 참고
+왼쪽에 스킬아이콘 몰아넣고
+오른쪽에서 조이스틱으로 조작하는식임
+
+핵앤슬래시 
+킬스쿼드
+스킬 시작전에 찍고(qwer식으로)
+게임시작후에 경험치쌓으면서 강화하거나 해금하는식
